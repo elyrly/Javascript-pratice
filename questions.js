@@ -27,12 +27,30 @@
 // }
 
 
-function lastElement(array) {
-  if (array.length > 0 )
-    return array.length -1;
-  else
-    return undefined;
-  // body...
-}
+// function lastElement(array) {
+//   if (array.length > 0 )
+//     return array.length -1;
+//   else
+//     return undefined;
+//   // body...
+// }
 
-console.log(lastElement("firsttime"));
+// try {
+//   print(Sasquatch)
+// }
+// catch(error) {
+//   print ("Caught: " + error.message);
+// }7un
+
+// function map(func,array) {
+//   var result = [ ];
+//   forEach(array, function(element){
+//     result.push(func(element));
+//   });
+//   return result;
+// }
+
+// var paragraphs = RECLUSEFILE..split("\n'n");
+
+// console.log(paragraphs.length);
+
